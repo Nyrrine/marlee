@@ -1,0 +1,7 @@
+turn-based-combat
+*.o
+*.obj
+*.exe
+*.out
+build/
+.vscode/
